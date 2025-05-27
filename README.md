@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jakobthompson15
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis with Python
-- 💞️ I’m looking to collaborate on Python Basics and necessary practice to master the language
-- 📫 How to reach me jake101mom@gmail.com
+-  3 years of Data Science 
+-  Expert in Data Analysis in R, Python, and SQL. 
+-  Always open to collaborate on Python, R, SQL, HTML and necessary practice to master the languages for you. 
+-  How to reach me jakobnthompson@gmail.com
 
 <!---
 Jakobthompson15/Jakobthompson15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
